@@ -1,9 +1,0 @@
-concurrent = 1
-check_interval = 0
-
-[[runners]]
-  name = "0a0ebc2d640a"
-  url = "http://git.walkin.cloud:10080/"
-  token = "cf14089c39379df11fffcfddaf9fba"
-  executor = "shell"
-  [runners.cache]
